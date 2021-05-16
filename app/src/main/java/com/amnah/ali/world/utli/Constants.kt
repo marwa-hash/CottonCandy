@@ -8,7 +8,7 @@ object Constants {
         const val LNG = 3
         const val  COUNTRY = 4
         const val ISO2 = 5
-        const val iSO3 = 6
+        const val ISO3 = 6
         const val ADMIN_NAME = 7
         const val CAPITAL =8
         const val  POPULATION = 9
